@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="MyGIS.FFeature">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAABAAIAAAAAAgQAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FSpatial">
+    <Position X="9.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAABAAAAAIAAAAAAIAAAAAAAAAACEAIAAQAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FAttribute">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAQIAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FMultiPoint">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FPoint">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FMultiLine">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAIAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FLine">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAAQAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FMultiPolygon">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIACAAAAAEAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FPolygon">
+    <Position X="13.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAIACAAAAQAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FExtent">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ADECAgIIAQIAACQAQAIICAAAAgAAAQiIQAAAADAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FVertex">
+    <Position X="19.75" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAACgAAAAABGAAAAAAAAAABAAABgAGAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FView">
+    <Position X="25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAAABAggAAAAAACECAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FField">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FLayer">
+    <Position X="24.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAoAAAAAIAABAIAAAQIBAAQAAAAAAAAACQAgAAIAggA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FPostGIS">
+    <Position X="21.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABQAABAABIAAIACIQAAEAKAABAAAAAAAAAE=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.FShapefile">
+    <Position X="17.5" Y="4.5" Width="2" />
+    <NestedTypes>
+      <Struct Name="MyGIS.FShapefile.ShapeFileHeader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyGIS.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MyGIS.FShapefile.RecordHeader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyGIS.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABACAAAAAAAAAIQAAIAIAAAAAAAAAEABACIAAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyGIS.SHAPETYPE">
+    <Position X="22.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAEggEAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyGIS.MOUSECOMMAND">
+    <Position X="17.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAAAACAAAAAQAAAAAA=</HashCode>
+      <FileName>MyGIS.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

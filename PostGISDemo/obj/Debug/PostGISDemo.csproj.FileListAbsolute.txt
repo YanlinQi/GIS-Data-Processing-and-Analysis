@@ -1,0 +1,116 @@
+E:\VS Project\PostGISDemo\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+E:\VS Project\PostGISDemo\PostGISDemo\bin\Debug\PostGISDemo.exe
+E:\VS Project\PostGISDemo\PostGISDemo\bin\Debug\PostGISDemo.pdb
+E:\VS Project\PostGISDemo\PostGISDemo\bin\Debug\Mono.Security.dll
+E:\VS Project\PostGISDemo\PostGISDemo\bin\Debug\Npgsql.dll
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.exe
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.pdb
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+E:\VS Project\PostGISDemo\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.Transactions.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.EnterpriseServices.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.Web.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.Data.OracleClient.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\GenerateResource.write.1.tlog
+D:\研究生学习\GIS开发\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+D:\研究生学习\GIS开发\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+D:\研究生学习\GIS开发\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+C:\Users\cybergis\Desktop\作业资料\去年作业\PostGISDemo1101\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+C:\Users\mm\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
+C:\Users\cybergis\Desktop\PostGISDemo1101\PostGISDemo\bin\Debug\IrisSkin4.dll
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+C:\Users\cybergis\Desktop\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe.config
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.exe
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.pdb
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.exe
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\bin\Debug\PostGISDemo.pdb
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\bin\Debug\Mono.Security.dll
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\bin\Debug\Npgsql.dll
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csprojResolveAssemblyReference.cache
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form1.resources
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form2.resources
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form3.resources
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Form4.resources
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.Properties.Resources.resources
+D:\课程学习\GIS算法-刘瑜\备份\PostGISDemo1101\PostGISDemo\obj\Debug\PostGISDemo.csproj.GenerateResource.Cache
